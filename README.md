@@ -20,14 +20,14 @@ La interfaz web desarrollada con Vaadin Flow permite administrar usuarios y visu
 Se pueden realizar acciones como aprobar o rechazar solicitudes y enviar mensajes.
 
 ### Estructura del Repositorio
-src/main/java: Contiene el código fuente Java.
-src/main/resources: Contiene archivos de configuración y plantillas HTML.
-target: Carpeta generada con el archivo .jar.
+- src/main/java: Contiene el código fuente Java.
+- src/main/resources: Contiene archivos de configuración y plantillas HTML.
+- target: Carpeta generada con el archivo .jar.
 
 ### Requisitos
-Java 17
-Maven
-Token de acceso del Bot de Telegram
+- Java 17
+- Maven
+- Token de acceso del Bot de Telegram
 
 ## Contribución
 Si deseas contribuir al proyecto, sigue estos pasos:
