@@ -103,7 +103,7 @@ public class NotificatorBot extends TelegramLongPollingBot {
     }
 
     private void processStartCommand(Message message) {
-        BotUtils.sendMessage(this, "Welcome to Uncle Dave's Bot!!!", message.getChatId());
+        BotUtils.sendMessage(this, "Welcome off Bot of Lisandro!!!", message.getChatId());
     }
 
     private void processRegisterCommand(Message message) {

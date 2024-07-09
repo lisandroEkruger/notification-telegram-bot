@@ -2,7 +2,7 @@ package com.app.services;
 
 import java.util.List;
 
-import jakarta.transaction.Transactional;
+import javax.transaction.Transactional;
 
 import org.springframework.stereotype.Service;
 
