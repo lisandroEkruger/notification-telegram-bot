@@ -1,5 +1,5 @@
-## Bot de Telegram con Spring Boot y Vaadin Flow
-Este proyecto tiene como objetivo desarrollar un Bot de Telegram utilizando Spring Boot y Heroku. El Bot permite interactuar con los usuarios a través de comandos y mensajes.
+## Bot de Telegram con Spring Boot
+Este proyecto tiene como objetivo desarrollar un Bot de Telegram utilizando Spring Boot. El Bot permite interactuar con los usuarios a través de comandos y mensajes.
 
 ## Características Clave
 
@@ -16,7 +16,7 @@ Los usuarios pueden solicitar acceso al Bot.
 Los administradores pueden aprobar o rechazar las solicitudes de acceso.1
 
 ### Requisitos
-- Java 11
+- Java 17
 - Maven
 - Token de acceso del Bot de Telegram
 
