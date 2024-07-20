@@ -13,7 +13,7 @@
 	<name>notification-telegram-bot</name>
 	<description>Bot for notifications</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
