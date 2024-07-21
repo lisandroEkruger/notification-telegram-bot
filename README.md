@@ -13,7 +13,7 @@ Los mensajes se procesan y se envían a través de la plataforma de Telegram.
 
 ### Gestión de Solicitudes de Acceso:
 Los usuarios pueden solicitar acceso al Bot.
-Los administradores pueden aprobar o rechazar las solicitudes de acceso.1
+Los administradores pueden aprobar o rechazar las solicitudes de acceso.
 
 ### Requisitos
 - Java 17
